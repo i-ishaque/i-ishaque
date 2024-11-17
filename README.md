@@ -1,25 +1,69 @@
-# 👋 Hello, I'm Intel Rat
+<div align="center">
+  
+# 🐀 Welcome to Intel Rat's Digital Maze 🌐
 
-🔍 OSINT hunter & cybersec student | 🐧 Linux enthusiast | 🐀 Tracking digital footprints
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=OSINT+Investigator+in+Training;Linux+Enthusiast;Digital+Footprint+Hunter;Cheese+Connoisseur+🧀)](https://git.io/typing-svg)
 
-### 🛠️ My Toolkit
-- **OS**: Linux (Primary)
-- **OSINT Tools**: Maltego, Shodan, OSINT Framework
-- **Languages & Tools**: 
-  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+</div>
 
-### 🔭 Current Focus
-- Expanding my OSINT methodology
-- Deepening cybersecurity knowledge
-- Contributing to open-source intelligence tools
+```ascii
+     _____________________
+    |  ,---------------.  |
+    | |    Terminal    | |
+    | |   $ whoami     | |
+    | |   > Intel_Rat  | |
+    | |   $ mission    | |
+    | | > Hunt 4 Intel | |
+    | |_______________| |
+    |_____________________|
+```
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=IntelRat&show_icons=true&theme=radical)
+## 🕵️‍♂️ Who's This Rat?
+- 🔍 Professional digital cheese sniffer (OSINT enthusiast)
+- 🐧 Linux is my playground, Terminal is my cheese maze
+- 🎓 Studying cybersecurity, because regular mazes were too boring
+- 🌟 Mission: Making cyberspace a better place, one byte at a time
 
-### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](YOUR_LINKEDIN_URL)
+## 🧰 My Treasure Chest
+```python
+skills = {
+    'OSINT': ['Maltego', 'Shodan', 'OSINT Framework', 'Digital Breadcrumbs'],
+    'OS': ['Linux', 'Because who needs windows in a maze?'],
+    'Interests': ['Cybersecurity', 'Digital Forensics', 'Automation'],
+    'Currently': ['Building tools', 'Learning new tricks', 'Finding digital cheese']
+}
+```
+
+## 🌈 Stats for Nerds
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IntelRat&theme=highcontrast)](https://github.com/IntelRat)
+
+</div>
+
+## 🎯 Current Mission Objectives
+- [ ] Master the art of digital reconnaissance
+- [ ] Build the ultimate OSINT toolkit
+- [ ] Find the legendary cyber cheese 🧀
+- [ ] Make the digital world a safer place
+
+## 📫 Rat Signal
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
+
+</div>
+
+<div align="center">
+
+### 🧀 "In a world of cats, be a smart rat" 🐱
+
+![Visitor Count](https://profile-counter.glitch.me/IntelRat/count.svg)
+
+</div>
 
 ---
-*"The best cheese is found through thorough reconnaissance" 🧀*
+<div align="center">
+  <i>Remember: The best hackers are like rats - smart, resilient, and always finding new paths! 🐀</i>
+</div>
