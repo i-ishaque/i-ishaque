@@ -1,69 +1,63 @@
-<div align="center">
-  
-# 🐀 Welcome to Intel Rat's Digital Maze 🌐
+# 🐧 ByteWhisperer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=OSINT+Investigator+in+Training;Linux+Enthusiast;Digital+Footprint+Hunter;Cheese+Connoisseur+🧀)](https://git.io/typing-svg)
+> Crafting elegant C# solutions in the Linux realm | Open Source Advocate
 
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/ByteWhisperer?style=social)](https://github.com/ByteWhisperer)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-```ascii
-     _____________________
-    |  ,---------------.  |
-    | |    Terminal    | |
-    | |   $ whoami     | |
-    | |   > Intel_Rat  | |
-    | |   $ mission    | |
-    | | > Hunt 4 Intel | |
-    | |_______________| |
-    |_____________________|
+### 👨‍💻 About Me
+
+Hey there! I'm a passionate C# developer who believes in the power of open-source and the beauty of Linux. By day, I craft robust .NET applications; by night, I contribute to the open-source community and tinker with Linux distributions.
+
+### 🛠️ Tech Stack
+
+```csharp
+var myTechStack = new Dictionary<string, string[]> {
+    {"Languages", new[] {"C#", "F#", "Python", "Bash"}},
+    {"Frameworks", new[] {".NET Core", "ASP.NET Core", "Entity Framework Core"}},
+    {"Tools", new[] {"VS Code", "Docker", "Git", "Azure DevOps"}},
+    {"OS", new[] {"Linux", "Windows (when I must 😉)"}},
+    {"Databases", new[] {"PostgreSQL", "MongoDB", "Redis"}}
+};
 ```
 
-## 🕵️‍♂️ Who's This Rat?
-- 🔍 Professional digital cheese sniffer (OSINT enthusiast)
-- 🐧 Linux is my playground, Terminal is my cheese maze
-- 🎓 Studying cybersecurity, because regular mazes were too boring
-- 🌟 Mission: Making cyberspace a better place, one byte at a time
+### 🚀 Featured Projects
 
-## 🧰 My Treasure Chest
-```python
-skills = {
-    'OSINT': ['Maltego', 'Shodan', 'OSINT Framework', 'Digital Breadcrumbs'],
-    'OS': ['Linux', 'Because who needs windows in a maze?'],
-    'Interests': ['Cybersecurity', 'Digital Forensics', 'Automation'],
-    'Currently': ['Building tools', 'Learning new tricks', 'Finding digital cheese']
-}
-```
+#### 🌟 LinuxDotNetBridge
+A toolkit for seamless integration between .NET applications and Linux system calls.
+- Cross-platform compatibility
+- High-performance native interop
+- Extensive documentation
 
-## 🌈 Stats for Nerds
-<div align="center">
+#### 🔧 OpenSourceToolkit
+A collection of C# utilities designed for the open-source community.
+- MIT licensed
+- Community-driven development
+- Continuous integration pipeline
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IntelRat&theme=highcontrast)](https://github.com/IntelRat)
+### 📊 GitHub Stats
 
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteWhisperer&show_icons=true&theme=dracula)
 
-## 🎯 Current Mission Objectives
-- [ ] Master the art of digital reconnaissance
-- [ ] Build the ultimate OSINT toolkit
-- [ ] Find the legendary cyber cheese 🧀
-- [ ] Make the digital world a safer place
+### 🌱 Current Focus
 
-## 📫 Rat Signal
-<div align="center">
+- Contributing to cross-platform .NET projects
+- Developing Linux-first C# applications
+- Mentoring new developers in the open-source community
+- Exploring microservices architecture with .NET Core
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](YOUR_TWITTER_URL)
+### 🤝 Let's Connect!
 
-</div>
+- 💼 [LinkedIn](https://linkedin.com/in/bytewhisperer)
+- 🐦 [Twitter](https://twitter.com/bytewhisperer)
+- 📝 [Dev.to Blog](https://dev.to/bytewhisperer)
 
-<div align="center">
+### 🎯 Professional Philosophy
 
-### 🧀 "In a world of cats, be a smart rat" 🐱
-
-![Visitor Count](https://profile-counter.glitch.me/IntelRat/count.svg)
-
-</div>
+> "Code is like poetry; it should be elegant, efficient, and open for all to read."
 
 ---
-<div align="center">
-  <i>Remember: The best hackers are like rats - smart, resilient, and always finding new paths! 🐀</i>
-</div>
+
+⭐️ From [ByteWhisperer](https://github.com/ByteWhisperer)
+
+*If my open-source work has helped you, consider [buying me a coffee](https://buymeacoffee.com/bytewhisperer)* ☕
