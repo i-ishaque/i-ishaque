@@ -1,11 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+%5BYOUR+NAME%5D+%F0%9F%91%8B;Rails+Artisan+%F0%9F%92%8E;Linux+Power+User+%F0%9F%90%A7;.NET+Explorer+%F0%9F%8C%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+%5BMuhammad+Ishaque%5D+%F0%9F%91%8B;Rails+Artisan+%F0%9F%92%8E;Linux+Power+User+%F0%9F%90%A7;.NET+Explorer+%F0%9F%8C%8F" alt="Typing SVG" />
 </h1>
 
 <div align="center">
   
-[![Visits](https://komarev.com/ghpvc/?username=yourusername&logo=GitHub&label=Profile%20views&color=brightgreen&logoColor=white&style=flat-square)](https://github.com/yourusername)
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![Visits](https://komarev.com/ghpvc/?i-ishaque=i-ishaque&logo=GitHub&label=Profile%20views&color=brightgreen&logoColor=white&style=flat-square)](https://github.com/i-ishaque)
+[![GitHub followers](https://img.shields.io/github/followers/i-ishaque?label=Follow&style=social)](https://github.com/i-ishaque)
 
 </div>
 
