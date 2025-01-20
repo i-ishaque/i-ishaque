@@ -1,63 +1,70 @@
-# 🐧 ByteWhisperer
+# 👋 Hello, Fellow Developers!
 
-> Crafting elegant C# solutions in the Linux realm | Open Source Advocate
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&background=FFFFFF00&width=435&lines=Ruby+on+Rails+Developer;Linux+Enthusiast;.NET+Explorer)
 
-[![GitHub followers](https://img.shields.io/github/followers/ByteWhisperer?style=social)](https://github.com/ByteWhisperer)
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+</div>
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-Hey there! I'm a passionate C# developer who believes in the power of open-source and the beauty of Linux. By day, I craft robust .NET applications; by night, I contribute to the open-source community and tinker with Linux distributions.
+Passionate about crafting elegant solutions through code. My journey spans across different technologies, with a special love for Ruby on Rails and Linux. Currently expanding my horizons with C# and .NET!
 
-### 🛠️ Tech Stack
+## 💻 Tech Stack
 
-```csharp
-var myTechStack = new Dictionary<string, string[]> {
-    {"Languages", new[] {"C#", "F#", "Python", "Bash"}},
-    {"Frameworks", new[] {".NET Core", "ASP.NET Core", "Entity Framework Core"}},
-    {"Tools", new[] {"VS Code", "Docker", "Git", "Azure DevOps"}},
-    {"OS", new[] {"Linux", "Windows (when I must 😉)"}},
-    {"Databases", new[] {"PostgreSQL", "MongoDB", "Redis"}}
-};
-```
+### Primary Technologies
+- Ruby on Rails 💎
+- Linux 🐧
+- C# / .NET 🔷
 
-### 🚀 Featured Projects
+### Tools & Environment
+- Vim/NeoVim
+- Git
+- Docker
+- VS Code
 
-#### 🌟 LinuxDotNetBridge
-A toolkit for seamless integration between .NET applications and Linux system calls.
-- Cross-platform compatibility
-- High-performance native interop
-- Extensive documentation
+## 🌱 Currently Learning
+- Advanced Rails Design Patterns
+- .NET Microservices
+- DevOps Best Practices
 
-#### 🔧 OpenSourceToolkit
-A collection of C# utilities designed for the open-source community.
-- MIT licensed
-- Community-driven development
-- Continuous integration pipeline
+## 💡 What I Believe In
+- Clean, maintainable code
+- Open source contribution
+- Continuous learning
+- Knowledge sharing
 
-### 📊 GitHub Stats
+## 🛠️ Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ByteWhisperer&show_icons=true&theme=dracula)
+Here are some of my favorite projects:
+1. [Project Name] - A Ruby on Rails application that...
+2. [Project Name] - Linux automation scripts for...
+3. [Project Name] - .NET Core API that...
 
-### 🌱 Current Focus
+## 📈 GitHub Stats
 
-- Contributing to cross-platform .NET projects
-- Developing Linux-first C# applications
-- Mentoring new developers in the open-source community
-- Exploring microservices architecture with .NET Core
+<div align="center">
+  
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🤝 Let's Connect!
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-- 💼 [LinkedIn](https://linkedin.com/in/bytewhisperer)
-- 🐦 [Twitter](https://twitter.com/bytewhisperer)
-- 📝 [Dev.to Blog](https://dev.to/bytewhisperer)
+</div>
 
-### 🎯 Professional Philosophy
+## 🤝 Let's Connect!
 
-> "Code is like poetry; it should be elegant, efficient, and open for all to read."
+Feel free to reach out to me on:
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
+- [Dev.to](your-dev.to-url)
+
+## ⚡ Fun Fact
+
+I debug with puts statements and I'm not ashamed of it! 😄
 
 ---
+<div align="center">
+  
+✨ *"Make it work, make it right, make it fast"* - Kent Beck ✨
 
-⭐️ From [ByteWhisperer](https://github.com/ByteWhisperer)
-
-*If my open-source work has helped you, consider [buying me a coffee](https://buymeacoffee.com/bytewhisperer)* ☕
+</div>
