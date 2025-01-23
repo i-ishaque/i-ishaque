@@ -1,164 +1,64 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=6FDA44&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+%5BIshaque%5D+%F0%9F%91%8B;Rails+Artisan+%F0%9F%92%8E;Linux+Power+User+%F0%9F%90%A7;.NET+Explorer+%F0%9F%8C%8F" alt="Typing SVG" />
-</h1>
+# 👋 Hey there! I'm Muhammad Ishaque (Isaac) 
 
-<div align="center">
-  
-[![Visits](https://komarev.com/ghpvc/?i-ishaque=i-ishaque&logo=GitHub&label=Profile%20views&color=brightgreen&logoColor=white&style=flat-square)](https://github.com/i-ishaque)
-[![GitHub followers](https://img.shields.io/github/followers/i-ishaque?label=Follow&style=social)](https://github.com/i-ishaque)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B32D&center=true&width=435&lines=Web+Dev+%26+Open+Source+Enthusiast;Ruby+Lover;Linux+%26+C%23+Explorer;Code+Craftsman" alt="Typing SVG" />
+</p>
 
-</div>
+## 🚀 About Me
 
-## 🎯 Professional Focus
+<img align="right" src="https://media.giphy.com/media/M9kgjEsLlpci4/giphy.gif" width="230" alt="Coding GIF">
 
+### 💻 Tech Journey
+- 🔷 **Ruby Artisan** creating elegant solutions
+- 🐧 **Linux Enthusiast** navigating system depths
+- 💠 **C# Explorer** bridging different tech landscapes
+- 🌐 **Full-Stack Alchemist** transforming ideas into reality
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,linux,cs,dotnet,javascript,html,css,git" />
+</p>
+
+### 🌟 Open Source Philosophy
 ```ruby
-class Developer < SoftwareArtisan
-  def initialize
-    @languages = ['Ruby', 'C#', 'JavaScript', 'Bash']
-    @frameworks = ['Ruby on Rails', '.NET', 'React']
-    @status = 'Crafting elegant solutions'
-    @current_location = 'Terminal'
+class OpenSourceContributor
+  def collaborate
+    puts "🤝 Building together > Building alone"
+    seek_meaningful_projects
+    learn_and_grow
   end
 
-  def daily_routine
-    wake_up
-    drink_coffee while coffee.empty?
-    code until tests.pass?
-    sleep unless debugging?
+  private
+
+  def seek_meaningful_projects
+    # Always on the lookout for impactful contributions
   end
 end
 ```
 
-## 🛠️ Tech Arsenal
+### 📊 GitHub Metrics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="48" height="48" alt="Rails" />
-      <br>Rails
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="48" height="48" alt=".NET" />
-      <br>.NET
-    </td>
-  </tr>
-</table>
-
-## 🌟 Expertise Zones
-
-### 🚂 Ruby on Rails Territory
-- RESTful API Architecture
-- Test-Driven Development (RSpec)
-- ActiveRecord Mastery
-- Background Jobs (Sidekiq)
-- Rails Engine Development
-
-### 🐧 Linux Domain
-- Shell Scripting Virtuoso
-- System Administration
-- Docker Containerization
-- Performance Optimization
-- Server Hardening
-
-### 🎯 .NET Universe
-- ASP.NET Core Web APIs
-- Entity Framework Core
-- LINQ Operations
-- Dependency Injection
-- Microservices Architecture
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
-
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" /> |
-| ------------- | ------------- |
-
-</div>
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![Rails Project](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-rails-project&theme=radical)](https://github.com/yourusername/your-rails-project)
-[![.NET Project](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-dotnet-project&theme=radical)](https://github.com/yourusername/your-dotnet-project)
-
-</div>
-
-## 🎓 Current Learning Path
-
-```mermaid
-mindmap
-  root((Skills))
-    Rails
-      Advanced Patterns
-      Engines
-      Performance
-    Linux
-      DevOps
-      Security
-      Automation
-    .NET
-      Microservices
-      Azure
-      Core Internals
-```
-
-## 💡 Philosophy Corner
-
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-I believe in:
-- Writing self-documenting code
-- Following SOLID principles
-- Contributing to open source
-- Sharing knowledge
-- Continuous improvement
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](your-twitter-url)
-[![Dev.to](https://img.shields.io/badge/dev.to-%2308090A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](your-dev.to-url)
-
-</div>
-
-## ⚡ Fun Facts
-
-- I debug with `puts` and `console.log` 🐛
-- My best code is written after midnight ⌚
-- I can exit Vim... most of the time 😅
-- Tabs > Spaces (fight me!) 💪
+### 🌈 Connect & Collaborate
+<p align="center">
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet" alt="Profile Views" />
+</p>
 
-### 📊 This Week's Coding Time
-
-<!--START_SECTION:waka-->
-```text
-Ruby         12 hrs 30 mins  ███████████░░░░░░░  60.25%
-C#           5 hrs 45 mins   ██████░░░░░░░░░░░░  27.75%
-Shell        2 hrs 30 mins   ███░░░░░░░░░░░░░░░  12.00%
-```
-<!--END_SECTION:waka-->
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- Yes, this README was created with Markdown 😎 -->
-
-</div>
+*Turning caffeine into code, one commit at a time* ☕💻
