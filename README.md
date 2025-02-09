@@ -2,7 +2,7 @@
 
 <!-- Title with animation -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=Hey!+I'm+H4x0r+Kitten+%F0%9F%8E%80;Binary+Exploitation+Queen+%F0%9F%91%91;Pwning+with+Style+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=535&lines=Heyyy!+I'm+H4x0r+Kitten+%F0%9F%8E%80;Binary+Exploitation+Queen+%F0%9F%91%91;Pwning+With+Style+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <!-- Cute banner animation -->
