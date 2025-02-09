@@ -1,73 +1,109 @@
 <div align="center">
 
-# 🎀 Sweet Binary Princess 👑
+<!-- Title with animation -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=Hey!+I'm+H4x0r+Kitten+%F0%9F%8E%80;Binary+Exploitation+Queen+%F0%9F%91%91;Pwning+with+Style+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com)
-[![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-FF69B4?style=for-the-badge&logo=data:image/png;base64,placeholder)](https://binary.ninja)
+<!-- Cute banner animation -->
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
 
-*Turning vulnerabilities into glitter ✨*
+<!-- Badges with hover effects -->
+<p>
+  <a href="https://app.hackthebox.com">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="HTB" />
+  </a>
+  <a href="https://binary.ninja">
+    <img src="https://img.shields.io/badge/Binary%20Ninja-FF69B4?style=for-the-badge" alt="Binary Ninja" />
+  </a>
+</p>
 
-```ascii
-  🦋
- /|\     Just a girl,
-  |   standing in front of a binary,
- / \    asking it to be exploited 💝
-```
+*～ Where exploits meet elegance ～*
+
+<!-- Cute ASCII art animation using CSS -->
+<div align="center">
+<pre>
+<div class="heart">
+    ♡(◡‿◡✿)     
+   /██████\      
+  |████████|     Binary
+   \██████/      Queen
+     |__|        
+</div>
+</pre>
+</div>
 
 </div>
 
-## 💖 About Me
+## ✧ About Me ✧
 
 ```python
-class BinaryPrincess:
+class PwnPrincess:
     def __init__(self):
-        self.skills = {
-            "💫 expertise": ["pwning binaries", "reverse engineering", "making things sparkle"],
-            "💝 languages": ["Python", "C", "Assembly"],
-            "🎀 interests": ["CTFs", "0days", "cute IDEs"],
-            "✨ superpower": "Finding bugs with style"
+        self.identity = {
+            "✦ specialty": "making binaries bow to me",
+            "✧ weapons": ["fuzzing", "ROP chains", "heap magic"],
+            "♡ style": ["pastels", "kawaii", "glitter"],
+            "✦ mission": "proving cute can be dangerous"
         }
-        
-    def motto(self):
-        return "Making exploitation fabulous, one byte at a time! 🎀"
+    
+    def daily_routine(self):
+        return "⭑ Find bugs ⭑ Make exploits ⭑ Take names ⭑"
 ```
 
-## 🌸 My Magical Toolbox
-
-```c
-struct princess_arsenal {
-    char *favorite_tools[5];
-} tools = {
-    .favorite_tools = {
-        "GDB with pretty colors 💖",
-        "IDA Pro (pink theme) 🎀",
-        "Ghidra (customized) ✨",
-        "Custom exploits 💫",
-        "Lots of glitter ⭐"
-    }
-};
-```
-
-## ✨ Stats That Sparkle
+## ⭒ My Arsenal ⭒
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
-
+<a href="#">
+  <img alt="Tools" src="https://img.shields.io/badge/GDB-💖-ff69b4?style=for-the-badge&logo=gnu" />
+  <img alt="Tools" src="https://img.shields.io/badge/IDA_Pro-🎀-ff69b4?style=for-the-badge&logo=hex" />
+  <img alt="Tools" src="https://img.shields.io/badge/Python-✨-ff69b4?style=for-the-badge&logo=python" />
+  <img alt="Tools" src="https://img.shields.io/badge/Assembly-💫-ff69b4?style=for-the-badge&logo=assemblyscript" />
+</a>
 </div>
 
-## 💝 Let's Connect and Hack Together!
+<!-- Stats with animation -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical&hide_border=true" />
+</div>
 
-- 💌 Email: your.email@example.com
-- 🦋 Twitter: [@YourHandle]()
-- 🎀 Discord: princess.pwn#1234
+## ⭑ Magical Stats ⭑
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOURUSERNAME&theme=monokai)
+
+## ♡ Let's Connect! ♡
 
 <div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-💌-ff69b4?style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/YourHandle">
+    <img src="https://img.shields.io/badge/Twitter-🦋-ff69b4?style=for-the-badge" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-✨-ff69b4?style=for-the-badge" />
+  </a>
+</div>
 
-### "Debugging is just like finding the perfect accessory - it takes patience and style! 🎀"
+<div align="center">
 
 ---
 
-*Remember: Even buffer overflows can be fabulous* ✨
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%8E%80+Exploits+are+just+digital+jewelry+%F0%9F%8E%80" alt="Footer Typing SVG" />
 
 </div>
+
+<!-- Add some custom CSS for animations -->
+<style>
+.heart {
+  animation: heartbeat 1.5s ease-in-out infinite;
+}
+
+@keyframes heartbeat {
+  0% { transform: scale(1); }
+  14% { transform: scale(1.1); }
+  28% { transform: scale(1); }
+  42% { transform: scale(1.1); }
+  70% { transform: scale(1); }
+}
+</style>
