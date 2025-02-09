@@ -89,10 +89,6 @@ class PwnPrincess:
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&repeat=true&width=435&lines=%F0%9F%8E%80+Exploits+are+just+digital+jewelry+%F0%9F%8E%80" alt="Footer Typing SVG" />
-
-</div>
-
 <!-- Add some custom CSS for animations -->
 <style>
 .heart {
